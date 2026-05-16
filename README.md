@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-⚡Software Engineering. <br>⚡First year student in Istanbul Health and Technology University.<br>✨Served as team captain in rocketry and biotech innovation. <br>✨Completed a biotechnology project certified by the Istanbul Chamber of Commerce (ITO).<br>✨Passionte about astronomy, used to regularly share educational content on Instagram. <br>✨Have published a book titled 'Introduction to Astronomy'. <br>✨Also communicated with the European Space Agency (ESA). <br>
+⚡Software Engineering. <br>⚡Software Engineering student in Istanbul Health and Technology University .<br>✨Served as team captain in rocketry and biotech innovation. <br>✨Completed a biotechnology project certified by the Istanbul Chamber of Commerce (ITO).<br>✨Passionte about astronomy, used to regularly share educational content on Instagram. <br>✨Have published a book titled 'Temel Astronomiye Giriş'. <br>✨ESA (European Space Agency) recognized astrophotographer | Invited Community Member. <br>
 
 
 ## 🌐 Socials:
