@@ -3,6 +3,7 @@
 🎓 Software Engineering student at Istanbul Health and Technology University
 
 Focused on:
+- cybersecurity systems
 - autonomous systems
 - interactive desktop software
 - visual/UX-oriented tools
