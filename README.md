@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sena
+# Hi, I'm Sena
 
 🎓 Software Engineering student at Istanbul Health and Technology University
 
@@ -16,9 +16,9 @@ Currently exploring:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## ✨ Fairy Cursor Overlay
+## Fairy Cursor Overlay
 Interactive desktop companion system with:
 - smooth cursor tracking
 - easing animation
@@ -29,7 +29,7 @@ Interactive desktop companion system with:
 
 ---
 
-## 🤖 Autonomous Vehicle Framework
+## Autonomous Vehicle Framework
 Modular autonomous robotics architecture featuring:
 - PID stabilization
 - mission state machine
@@ -41,7 +41,7 @@ Modular autonomous robotics architecture featuring:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -51,7 +51,7 @@ Modular autonomous robotics architecture featuring:
 
 ---
 
-# 🌌 Background
+# Background
 
 - ESA-recognized astrophotography community member 
 - Former rocketry & biotech team captain
@@ -67,7 +67,7 @@ Modular autonomous robotics architecture featuring:
 
 ---
 
-# 📫 Contact
+# Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/spacexplr_sena)
 
