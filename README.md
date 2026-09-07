@@ -39,7 +39,7 @@ Software Engineering Student - ISTUN
 ## ✨ stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sena-Demirci&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sena-Demirci&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena-Demirci&layout=compact&hide_border=true&theme=dracula&bg_color=282a36"/>
 </div>
 
