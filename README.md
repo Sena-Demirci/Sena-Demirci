@@ -23,7 +23,7 @@
 <img src="./divider_sparkle.svg" width="100%"/>
 
 ## 💻 tech stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux&theme=dark" /> </div> <img src="docs/img/divider_sparkle.svg" width="100%"/>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux&theme=dark" /> </div> <img src="./divider_sparkle.svg" width="100%"/>
 
 ## 🪐 _background_
 
