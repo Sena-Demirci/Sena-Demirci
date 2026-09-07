@@ -34,7 +34,6 @@ Software Engineering Student - ISTUN
 - 🔭 ESA-recognized astrophotography community member
 - 🌌 Author of *'Temel Astronomiye Giriş'*
 
-<img src="./divider_sparkle.svg" width="100%"/>
 
 ## ✨ stats
 
