@@ -8,7 +8,7 @@
 
 ##  _about me ✨_ 
 
-    Software Engineering Student - ISTUN
+Software Engineering Student - ISTUN
 
 <div align="center">
 <table>
