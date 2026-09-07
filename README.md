@@ -46,8 +46,6 @@ Software Engineering Student - ISTUN
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sena-Demirci&hide_border=true&background=282a36&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6"/>
 </div>
 
-<img src="./divider_sparkle.svg" width="100%"/>
-
 ## Socials
 
 <div align="center">
