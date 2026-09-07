@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="hero_banner.svg" width="100%"/>
+<img src="./hero_banner.svg" width="100%"/>
 
 </div>
 
-<img src="divider_sparkle.svg" width="100%"/>
+<img src="./divider_sparkle.svg" width="100%"/>
 
 ##  _about me ✨_ 
 
@@ -13,14 +13,14 @@
 <div align="center">
 <table>
 <tr>
-<td><img src="card_cybersecurity.svg" width="270"/></td>
-<td><img src="card_autonomous.svg" width="270"/></td>
-<td><img src="card_appdev.svg" width="270"/></td>
+<td><img src="./card_cybersecurity.svg" width="270"/></td>
+<td><img src="./card_autonomous.svg" width="270"/></td>
+<td><img src="./card_appdev.svg" width="270"/></td>
 </tr>
 </table>
 </div>
 
-<img src="docs/img/divider_sparkle.svg" width="100%"/>
+<img src="./divider_sparkle.svg" width="100%"/>
 
 ## 💻 tech stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux&theme=dark" /> </div> <img src="docs/img/divider_sparkle.svg" width="100%"/>
@@ -34,7 +34,7 @@
 - 🔭 ESA-recognized astrophotography community member
 - 🌌 Author of *'Temel Astronomiye Giriş'*
 
-<img src="docs/img/divider_sparkle.svg" width="100%"/>
+<img src="./divider_sparkle.svg" width="100%"/>
 
 ## ✨ stats
 
@@ -47,7 +47,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sena-Demirci&hide_border=true&background=282a36&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6"/>
 </div>
 
-<img src="docs/img/divider_sparkle.svg" width="100%"/>
+<img src="./divider_sparkle.svg" width="100%"/>
 
 ## Socials
 
