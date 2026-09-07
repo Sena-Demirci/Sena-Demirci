@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="docs/img/hero_banner.svg" width="100%"/>
+<img src="hero_banner.svg" width="100%"/>
 
 </div>
 
-<img src="docs/img/divider_sparkle.svg" width="100%"/>
+<img src="divider_sparkle.svg" width="100%"/>
 
 ##  _about me ✨_ 
 
@@ -13,9 +13,9 @@
 <div align="center">
 <table>
 <tr>
-<td><img src="docs/img/card_cybersecurity.svg" width="270"/></td>
-<td><img src="docs/img/card_autonomous.svg" width="270"/></td>
-<td><img src="docs/img/card_appdev.svg" width="270"/></td>
+<td><img src="card_cybersecurity.svg" width="270"/></td>
+<td><img src="card_autonomous.svg" width="270"/></td>
+<td><img src="card_appdev.svg" width="270"/></td>
 </tr>
 </table>
 </div>
