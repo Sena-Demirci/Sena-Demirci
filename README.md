@@ -35,12 +35,10 @@ Software Engineering Student - ISTUN
 - 🌌 Author of *'Temel Astronomiye Giriş'*
 
 
+
 ## ✨ stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sena-Demirci&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena-Demirci&layout=compact&hide_border=true&theme=dracula&bg_color=282a36"/>
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sena-Demirci&hide_border=true&background=282a36&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6"/>
